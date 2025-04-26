@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center">Hi, I'm Luke – a passionate Front-end website Developer from Leamington specialising in crafting responsive, engaging websites. With a solid foundation in JavaScript (ES6+), React, and Tailwind CSS, combined with full MERN stack training, I build seamless, scalable web applications.</p>
+<p align="center">I'm a passionate Front-end website Developer from Leamington specialising in crafting responsive, engaging websites. With a solid foundation in JavaScript (ES6+), React, and Tailwind CSS, combined with full MERN stack training, I build seamless, scalable web applications.</p>
 
 <p align="center">My journey began with a natural curiosity about the digital world, refined through school, college, and a challenging bootcamp that sharpened my coding and problem-solving skills. Working as a concierge at a high-end Relais & Châteaux hotel, I developed strong interpersonal skills and a user-centred mindset that I bring into every project.</p>
 <br>
