@@ -6,19 +6,19 @@
 
 <br clear="both">
 
-<p align="center">Hi, I'm Luke – a passionate Front-end website Developer from Leamington specialising in crafting responsive, engaging websites. With a solid foundation in JavaScript (ES6+), React, and Tailwind CSS, combined with full MERN stack training, I build seamless, scalable web applications.
+<p align="center">Hi, I'm Luke – a passionate Front-end website Developer from Leamington specialising in crafting responsive, engaging websites. With a solid foundation in JavaScript (ES6+), React, and Tailwind CSS, combined with full MERN stack training, I build seamless, scalable web applications.</p>
 
-My journey began with a natural curiosity about the digital world, refined through school, college, and a challenging bootcamp that sharpened my coding and problem-solving skills. Working as a concierge at a high-end Relais & Châteaux hotel, I developed strong interpersonal skills and a user-centred mindset that I bring into every project.
+<p align="center">My journey began with a natural curiosity about the digital world, refined through school, college, and a challenging bootcamp that sharpened my coding and problem-solving skills. Working as a concierge at a high-end Relais & Châteaux hotel, I developed strong interpersonal skills and a user-centred mindset that I bring into every project.</p>
 
-Key Highlights:
+<p align="center">Key Highlights:</p>
 
-- Expertise in React with experience in the MERN stack.
+<p align="center">- Expertise in React with experience in the MERN stack.
 - Proficient in responsive design and accessibility best practices.
-- Experienced in collaborative team projects using Agile methodologies and Git workflows.
+- Experienced in collaborative team projects using Agile methodologies and Git workflows.</p>
 
-Outside of coding, you'll find me cycling around Leamington or enjoying quality time with friends. I'm always learning—currently expanding my skills in TypeScript and modern front-end frameworks.
+<p align="center">Outside of coding, you'll find me cycling around Leamington or enjoying quality time with friends. I'm always learning—currently expanding my skills in TypeScript and modern front-end frameworks.</p>
 
-If you're looking for a dedicated developer who combines technical expertise with genuine enthusiasm, let's connect and explore how I can help bring your digital projects to life.</p>
+<p align="center">If you're looking for a dedicated developer who combines technical expertise with genuine enthusiasm, let's connect and explore how I can help bring your digital projects to life.</p>
 
 ###
 
