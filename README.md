@@ -73,8 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rephlax/rephlax/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
