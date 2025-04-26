@@ -15,6 +15,7 @@
 <p>- Expertise in React with experience in the MERN stack.</p>
 <p>- Proficient in responsive design and accessibility best practices.</p>
 <p>- Experienced in collaborative team projects using Agile methodologies and Git workflows.</p>
+<br>
 
 <p align="center">Outside of coding, you'll find me cycling around Leamington or enjoying quality time with friends. I'm always learning—currently expanding my skills in TypeScript and modern front-end frameworks.</p>
 
